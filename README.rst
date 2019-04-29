@@ -13,6 +13,7 @@ Product template has been enhanced, invoicing policy section in order to set how
 
 This module depends upon *sale_service* and *lefilament_projets* modules.
 
+This module is maintained on BitBucket : https://bitbucket.org/lefilament/lefilament_link_sale_project/
 
 Configuration
 =====
@@ -69,8 +70,8 @@ Contributors
 Maintainer
 ------------
 
-.. image:: https://le-filament.com/images/logo-lefilament.png
+.. image:: https://le-filament.com/img/logo-lefilament.png
    :alt: Le Filament
    :target: https://le-filament.com
 
-This module is maintained by Le Filament
+This module is maintained by Le Filament on BitBucket : https://bitbucket.org/lefilament/lefilament_link_sale_project/
